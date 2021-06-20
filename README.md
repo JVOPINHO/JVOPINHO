@@ -1,6 +1,7 @@
 <h2>Oiie! Eu sou João Oliveira também conhecido como Pinho</h2>
 <a href="https://github.com/jvopinho">
   <img src="https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvopinho&layout=compact&langs_count=16&theme=tokyonight" />
 </a>
 <h2></h2>
 <div><h3>Linguagens e ferramentas</h3><br> 
