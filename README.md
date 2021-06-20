@@ -1,4 +1,8 @@
 <h2>Oiie! Eu sou João Oliveira também conhecido como Pinho</h2>
+<a href="https://github.com/jvopinho">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&theme=tokyonight" />
+</a>
+<h2></h2>
 <div><h3>Linguagens e ferramentas</h3><br> 
   <img align="center" alt="Pinho-Js" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856230935606722560/javascript-original.png" style="max-width:100%;">
   <img align="center" alt="Pinho-HTML" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856231028980580432/html5-original-wordmark.png" style="max-width:100%;">
