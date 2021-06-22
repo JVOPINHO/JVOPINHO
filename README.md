@@ -17,7 +17,7 @@
 </div>
 <h2></h2>
 <div><br>
-  <a href="https://www.youtube.com/channel/UC0uZOlLoQzJ1EokPOyf9M1w" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227008593002537/semijoias_3.png"style="max-width:100%;"></a>
+  <a href="https://www.youtube.com/channel/UCcx96QJun599YzCrf2Z--lw" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227008593002537/semijoias_3.png"style="max-width:100%;"></a>
   <a href="https://discord.gg/8K6Zry9Crx" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227435657822218/semijoias_4.png" style="max-width:100%;"></a>
   <a href="https://twitter.com/jvopinho" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227689816260648/semijoias_5.png" style="max-width:100%;"></a>
 </div>
