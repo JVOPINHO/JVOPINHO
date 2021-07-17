@@ -27,6 +27,7 @@
     <summary><strong>📋 | Objetivos para 2021</strong></summary>
     <ul>
         <li>[x] • EJS ⚙️</li>
+        <li>[x] • React 📘</li>
         <li>[ ] • TypeScript 🔮</li>
         <li>[ ] • SCSS 🎨</li>
         <li>[ ] • MongoDB 🥭</li>
