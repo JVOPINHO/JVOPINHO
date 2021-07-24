@@ -29,7 +29,7 @@
     <summary><strong>📋 | Objetivos para 2021</strong></summary>
     <ul>
         <li>[x] • EJS ⚙️</li>
-        <li>[x] • React e Next.js📘</li>
+        <li>[x] • React e Next.js 📘</li>
         <li>[ ] • Publicar uma package npm 📕</li>
         <li>[ ] • TypeScript 🔮</li>
         <li>[ ] • SCSS 🎨</li>
