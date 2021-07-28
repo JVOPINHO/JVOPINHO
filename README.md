@@ -20,9 +20,9 @@
 </div>
 <hr/>
 <div><br>
-  <a href="https://www.youtube.com/channel/UCcx96QJun599YzCrf2Z--lw" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227008593002537/semijoias_3.png"style="max-width:100%;"></a>
-  <a href="https://discord.gg/8K6Zry9Crx" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227435657822218/semijoias_4.png" style="max-width:100%;"></a>
-  <a href="https://twitter.com/jvopinho" rel="nofollow"><img src="https://media.discordapp.net/attachments/826844594464489494/856227689816260648/semijoias_5.png" style="max-width:100%;"></a>
+  <a href="https://www.youtube.com/channel/UCcx96QJun599YzCrf2Z--lw" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width:100%;"></a>
+  <a href="https://discord.gg/8K6Zry9Crx" rel="nofollow"><img src="https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=white" style="max-width:100%;"></a>
+  <a href="https://twitter.com/jvopinho" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;"></a>
 </div>
 <hr/>
 <details>
