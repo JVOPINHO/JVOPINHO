@@ -1,4 +1,4 @@
-<h2>Oiie! Eu sou João Oliveira também conhecido como Pinho,</h2>
+<h2>Aoba, eu sou João Oliveira,</h2>
 <img src="https://discord.c99.nl/widget/theme-1/699416429338034268.png" />
 <a href="https://github.com/jvopinho">
   <img src="https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&theme=tokyonight" /><br>
