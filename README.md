@@ -16,7 +16,7 @@
   <img align="center" alt="Pinho-EJS" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/863241114521436180/effe8a64-c52a-4983-aedb-91b5e432027f.png" style="max-width:100%;">
   <img align="center" alt="Pinho-EJS" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/866789397533294682/react-47ce6e77f039020ee2e76a10c1e988e9.png?width=499&height=499" style="max-width:100%;">
   <img align="center" alt="Pinho-EJS" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/866788988538585128/68747470733a2f2f6b617573747562682e6465762f696d672f6e6578746a732e36333338653362312e706e67.png?width=455&height=499" style="max-width:100%;">
-  <img align="right" alt="Gatinho" src="https://images-ext-2.discordapp.net/external/HdwQBNTNQixqdw76FZLDInpddVXNuAcgWcHSG1Gnvms/https/camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966" height="128" width="128">
+  <img align="right" alt="Gatinho" src="https://media.discordapp.net/attachments/826844594464489494/870075659848912936/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f38303938633665393230373337363838396565623035.gif" height="128" width="128">
 </div>
 <hr/>
 <div><br>
