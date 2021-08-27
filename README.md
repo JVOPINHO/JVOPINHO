@@ -31,7 +31,7 @@
         <li>[x] • EJS ⚙️</li>
         <li>[x] • React e Next.js 📘</li>
         <li>[ ] • Publicar uma package npm 📕</li>
-        <li>[ ] • TypeScript 🔮</li>
+        <li>[x] • TypeScript 🔮</li>
         <li>[ ] • SCSS 🎨</li>
         <li>[ ] • MongoDB 🥭</li>
     </ul>
