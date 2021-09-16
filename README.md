@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvopinho&layout=compact&langs_count=16&theme=tokyonight" />
 </a>
 <hr/>
-<div><h3>Linguagens e ferramentas</h3><br> 
+<div><h3>Linguagens, tecnologias e ferramentas</h3><br> 
   <img align="center" alt="Pinho-Js" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856230935606722560/javascript-original.png" style="max-width:100%;">
   <img align="center" alt="Pinho-HTML" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856231028980580432/html5-original-wordmark.png" style="max-width:100%;">
   <img align="center" alt="Pinho-CSS" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856231006775803934/css3-original-wordmark.png" style="max-width:100%;">
