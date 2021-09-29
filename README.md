@@ -32,7 +32,6 @@
         <li>[x] • React e Next.js 📘</li>
         <li>[x] • Publicar uma package npm 📕</li>
         <li>[x] • TypeScript 🔮</li>
-        <li>[ ] • SCSS 🎨</li>
         <li>[ ] • MongoDB 🥭</li>
     </ul>
 </details>
