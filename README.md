@@ -9,6 +9,7 @@
   <img align="center" alt="Pinho-Js" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856230935606722560/javascript-original.png" style="max-width:100%;">
   <img align="center" alt="Pinho-HTML" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856231028980580432/html5-original-wordmark.png" style="max-width:100%;">
   <img align="center" alt="Pinho-CSS" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856231006775803934/css3-original-wordmark.png" style="max-width:100%;">
+  <img align="center" alt="Pinho-TS" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/905557641814765669/Typescript_logo_2020.png?width=499&height=499" style="max-width:100%;">
    <hr/>
   <img align="center" alt="Pinho-NodeJs" width="40" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856218642379046962/nodejs-original-wordmark.png" style="max-width:100%;">
   <img align="center" alt="Pinho-Firebase" width="30" height="40" src="https://media.discordapp.net/attachments/826844594464489494/856230984898314300/68747470733a2f2f6170706d6173746572732e696f2f7374617469632f66697265626173652d6c6f676f2d63323462366239.png?width=364&height=500" style="max-width:100%;">
