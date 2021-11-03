@@ -1,4 +1,4 @@
-<h2>Aoba, eu me chamo Pinho.</h2>
+<h2>Aoba, eu me chamo Pinho</h2>
 <img src="https://discord.c99.nl/widget/theme-1/452618703792766987.png" />
 <a href="https://github.com/jvopinho">
   <img src="https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&theme=tokyonight" /><br>
