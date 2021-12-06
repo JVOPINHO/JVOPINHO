@@ -12,8 +12,11 @@
 
 ## _![](https://cdn.discordapp.com/emojis/885324695971459162.png?size=24) My Friends_
 [@Canary2000 💜](https://github/Canary2000)
+<br>
 [@victorpantarotti(Draw)](https://github/victorpantarotti)
+<br>
 [@Sayran Felix](https://github/SayranFelix)
+<br>
 [@Weariful](https://github/weariful)
 
 ## _![](https://cdn.discordapp.com/emojis/885714683414339589.png?size=24) Magic Skills_
