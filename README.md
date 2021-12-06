@@ -11,13 +11,13 @@
 [![](https://github-readme-stats.vercel.app/api/pin?repo=lunarybot&username=lunarybot&show_icons=true&bg_color=000000&icon_color=A020F0&text_color=fffafa&title_color=A020F0)](https://github.com/lunarybot/lunarybot)
 
 ## _![](https://cdn.discordapp.com/emojis/885324695971459162.png?size=24) My Friends_
-[@Canary2000 💜](https://github/Canary2000)
+[@Canary2000 💜](https://github.com/Canary2000)
 <br>
-[@victorpantarotti(Draw)](https://github/victorpantarotti)
+[@victorpantarotti(Draw)](https://github.com/victorpantarotti)
 <br>
-[@Sayran Felix](https://github/SayranFelix)
+[@Sayran Felix](https://github.com/SayranFelix)
 <br>
-[@Weariful](https://github/weariful)
+[@Weariful](https://github.com/weariful)
 
 ## _![](https://cdn.discordapp.com/emojis/885714683414339589.png?size=24) Magic Skills_
 ![PinhoJs](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=a020f0)
