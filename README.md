@@ -30,3 +30,14 @@
 [![PinhoYouTube](https://img.shields.io/badge/youtube-000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=a020f0)](https://www.youtube.com/channel/UCcx96QJun599YzCrf2Z--lw)
 [![PinhoTwitter](https://img.shields.io/badge/twitter-000.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=a020f0)](https://twitter.com/jvopinho)
 [![PinhoSpotify](https://img.shields.io/badge/spotify-000.svg?style=for-the-badge&logo=spotify&logoColor=white&labelColor=a020f0)](https://open.spotify.com/user/31oxy7nrnui74mdpkaczkamxshmy)<br>
+
+<details>
+    <summary><strong><i><img src="https://cdn.discordapp.com/emojis/885714824925958145.png?size=16" /> Goals for 2021</i></strong></summary>
+    <ul>
+        <li>[x] • EJS ⚙️</li>
+        <li>[x] • React and Next.js 📘</li>
+        <li>[x] • Publish an npm package 📕</li>
+        <li>[x] • TypeScript 🔮</li>
+        <li>[ ] • MongoDB 🥭</li>
+    </ul>
+</details>
