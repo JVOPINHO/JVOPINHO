@@ -38,6 +38,6 @@
         <li>[x] • React and Next.js 📘</li>
         <li>[x] • Publish an npm package 📕</li>
         <li>[x] • TypeScript 🔮</li>
-        <li>[ ] • MongoDB 🥭</li>
+        <li>[ ] • MongoDB 🥭(Not Completed)</li>
     </ul>
 </details>
