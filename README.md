@@ -16,6 +16,7 @@
 
 > ![PinhoJs](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=a020f0)
 ![PinhoTs](https://img.shields.io/badge/typescript-000.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=a020f0)
+![PinhoGs](https://img.shields.io/badge/Google%20Apps%20Script-000.svg?style=for-the-badge&logo=google&logoColor=white&labelColor=a020f0)
 ![PinhoHtml](https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=a020f0)
 ![PinhoCss](https://img.shields.io/badge/css-000.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=a020f0) <br>
 > ![PinhoNodeJs](https://img.shields.io/badge/node.js-000.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=a020f0)
