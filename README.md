@@ -33,6 +33,15 @@
 [![PinhoSpotify](https://img.shields.io/badge/spotify-000.svg?style=for-the-badge&logo=spotify&logoColor=white&labelColor=a020f0)](https://open.spotify.com/user/31oxy7nrnui74mdpkaczkamxshmy)<br>
 
 <details>
+    <summary><strong><i><img src="https://cdn.discordapp.com/emojis/888110062516723812.png?size=16" /> Goals for 2022</i></strong></summary>
+    <ul>
+        <li>[ ] • Docker 🐳</li>
+        <li>[ ] • MongoDB 🥭</li>
+        <li>[ ] • ProtegeSQL 🐘</li>
+    </ul>
+</details>
+
+<details>
     <summary><strong><i><img src="https://cdn.discordapp.com/emojis/885714824925958145.png?size=16" /> Goals for 2021</i></strong></summary>
     <ul>
         <li>[x] • EJS ⚙️</li>
