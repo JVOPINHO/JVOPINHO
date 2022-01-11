@@ -38,6 +38,7 @@
         <li>[ ] • Docker 🐳</li>
         <li>[ ] • MongoDB 🥭</li>
         <li>[ ] • ProtegeSQL 🐘</li>
+        <li>[ ] • Create my portfolio 📋</li>
     </ul>
 </details>
 
