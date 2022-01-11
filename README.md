@@ -40,7 +40,7 @@
         <li>[ ] • ProtegeSQL 🐘</li>
         <li>[ ] • Create my portfolio 📋</li>
         <li>[ ] • Start <a href="https://github.com/IsLuny">IsLuny's</a> actions 🌙</li>
-        <li>[ ] • Transfer <a href="https://github.com/LunaryBot/LunaryBot">LunaryBot</a> to TypeScript �🔮</li>
+        <li>[ ] • Transfer <a href="https://github.com/LunaryBot/LunaryBot">LunaryBot</a> to TypeScript 🔮</li>
     </ul>
 </details>
 
