@@ -7,9 +7,9 @@
 > [![](https://github-readme-stats.vercel.app/api/pin?repo=lunarybot&username=lunarybot&show_icons=true&bg_color=000000&icon_color=A020F0&text_color=fffafa&title_color=A020F0)](https://github.com/lunarybot/lunarybot)
 
 ## _![](https://cdn.discordapp.com/emojis/885324695971459162.png?size=24) My Friends_
-> **[@Canary2000 💜(TwoNike)](https://github.com/Canary2000) <br>
-> [@victorpantarotti(Draw)](https://github.com/victorpantarotti) <br>
-> [@Sayran Felix(Polar)](https://github.com/SayranFelix) <br>
+> **[@Canary2000 💜 (TwoNike)](https://github.com/Canary2000) <br>
+> [@victorpantarotti (Draw)](https://github.com/victorpantarotti) <br>
+> [@Sayran Felix (Polar)](https://github.com/SayranFelix) <br>
 > [@WearifulCupid0](https://github.com/WearifulCupid0)**
 
 ## _![](https://cdn.discordapp.com/emojis/885714683414339589.png?size=24) Magic Skills_
