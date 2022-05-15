@@ -37,7 +37,7 @@
     <summary><strong><i><img src="https://cdn.discordapp.com/emojis/888110062516723812.png?size=16" /> Goals for 2022</i></strong></summary>
     <ul>
         <li>[ ] • Docker 🐳</li>
-        <li>[ ] • MongoDB 🥭</li>
+        <li>[x] • MongoDB 🥭</li>
         <li>[ ] • PostgreSQL 🐘</li>
         <li>[ ] • Create my portfolio 📋</li>
         <li>[x] • Publish v3 of <strong><a href="https://github.com/LunaryBot/LunaryBot">LunaryBot</a></strong></li>
