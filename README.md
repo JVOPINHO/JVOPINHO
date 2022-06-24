@@ -40,6 +40,7 @@
         <li>[x] • MongoDB 🥭</li>
         <li>[ ] • PostgreSQL 🐘</li>
         <li>[ ] • Redis 🎲</li>
+        <li>[ ] • GraphQL 📁</li>
         <li>[ ] • Create my portfolio 📋</li>
         <li>[x] • Publish v3 of <strong><a href="https://github.com/LunaryBot/LunaryBot">LunaryBot</a></strong></li>
         <li>[ ] • Start <strong><a href="https://github.com/IsLuny">IsLuny's</a></strong> actions 🌙</li>
