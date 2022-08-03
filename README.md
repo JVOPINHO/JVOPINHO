@@ -27,7 +27,7 @@
 ![PinhoExpressJs](https://img.shields.io/badge/Express.js-000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=a020f0)
 
 ## _![](https://cdn.discordapp.com/emojis/849300392567242752.png?size=24) Connections_
-> [![PinhoDiscord](https://img.shields.io/badge/discord-000.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=a020f0)](https://discord.gg/8K6Zry9Crx)
+> [![PinhoDiscord](https://img.shields.io/badge/Discord%20Server-000.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=a020f0)](https://discord.gg/8K6Zry9Crx)
 [![PinhoDiscordProfile](https://img.shields.io/badge/Discord%20Profile-000.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=a020f0)](https://discord.com/users/452618703792766987)
 [![PinhoYouTube](https://img.shields.io/badge/youtube-000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=a020f0)](https://www.youtube.com/channel/UCcx96QJun599YzCrf2Z--lw)
 [![PinhoTwitter](https://img.shields.io/badge/twitter-000.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=a020f0)](https://twitter.com/jvopinho)
