@@ -39,7 +39,7 @@
     <ul>
         <li>[ ] • Docker 🐳</li>
         <li>[x] • MongoDB 🥭</li>
-        <li>[ ] • PostgreSQL 🐘</li>
+        <li>[x] • PostgreSQL 🐘</li>
         <li>[x] • Redis 🎲</li>
         <li>[x] • GraphQL 🎯</li>
         <li>[ ] • Create my portfolio 📋</li>
