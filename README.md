@@ -1,7 +1,7 @@
 # _Welcome to my Github Profile!!! ![](https://cdn.discordapp.com/emojis/899326455274676225.png?size=32)_ 
 > ![](https://cdn.discordapp.com/emojis/849304024322408459.png?size=16) My online-alias is **Bae** our **JVOPINHO**, 
 > <br> ![](https://cdn.discordapp.com/emojis/901578713001492570.png?size=16) My Real Name is **John Pinho** our **João Pinho**, but I like to be called **Pinho**.
-> <br> **[`My Discord Bot`](https://dsc.gg/lunarybot)|[`My Email`](mailto:jvopinho.dev@gmail.com)** <br> <br>
+> <br> **[`My Discord Bot`](https://dsc.gg/lunarybot)|[`My Email`](mailto:jvopinho@lunary.space)** <br> <br>
 > [![](https://discord.c99.nl/widget/theme-4/452618703792766987.png)](https://discord.com/users/452618703792766987) <br>
 > [![](https://github-readme-stats.vercel.app/api?username=jvopinho&show_icons=true&bg_color=000000&icon_color=A020F0&text_color=fffafa&title_color=A020F0)](https://github.com/jvopinho) <br>
 > [![](https://github-readme-stats.vercel.app/api/pin?repo=lunarybot&username=lunarybot&show_icons=true&bg_color=000000&icon_color=A020F0&text_color=fffafa&title_color=A020F0)](https://github.com/lunarybot/lunarybot)
