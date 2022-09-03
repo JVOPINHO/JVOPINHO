@@ -37,7 +37,7 @@
 <details>
     <summary><strong><i><img src="https://cdn.discordapp.com/emojis/888110062516723812.png?size=16" /> Goals for 2022</i></strong></summary>
     <ul>
-        <li>[ ] • Docker 🐳</li>
+        <li>[x] • Docker 🐳</li>
         <li>[x] • MongoDB 🥭</li>
         <li>[x] • PostgreSQL 🐘</li>
         <li>[x] • Redis 🎲</li>
