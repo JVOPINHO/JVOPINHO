@@ -10,4 +10,3 @@
 <img src="https://cdn.discordapp.com/emojis/722554079313657926.png?size=16" /> My darling <a href="https://github.com/Canary2000">@Canary2000</a> <br />
 <code><a href="https://dsc.gg/lunarybot">My Discord Bot</a></code>|<code><a href="mailto:jvopinho@lunary.space">My Email</a></code>
 </p>
-<hr />
