@@ -6,6 +6,6 @@
 
 <p>
 <img src="https://cdn.discordapp.com/emojis/849304024322408459.png?size=16" /> My online-alias is <strong>Bae</strong> our <strong>jvopinho</strong>, <br />
-<img src="https://cdn.discordapp.com/emojis/901578713001492570.png?size=16" /> My Real Name is <strong>João/John Pinho</strong>, but I like to be called <strong>Pinho</strong>. <br />
+<img src="https://cdn.discordapp.com/emojis/901578713001492570.png?size=16" /> My Real Name is <strong>João/John Pinho</strong>, but I like to be called <strong>Pinho</strong> or <strong>Jay</strong>. <br />
 <code><a href="https://dsc.gg/lunarybot">My Discord Bot</a></code>|<code><a href="mailto:jvopinho@lunary.space">My Email</a></code>
 </p>
