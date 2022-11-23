@@ -2,7 +2,7 @@
 
 ### Welcome to my Github Profile!!! ![](https://cdn.discordapp.com/emojis/899326455274676225.png?size=22) 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=jvopinho&color=fdfbff&style=for-the-badge&logo=GitHub">
+![](https://img.shields.io/static/v1?label=Overview&message=jvopinho&color=fdfbff&style=for-the-badge&logo=GitHub)
 
 <p>
 <img src="https://cdn.discordapp.com/emojis/849304024322408459.png?size=16" /> My online-alias is <strong>Bae</strong> our <strong>jvopinho</strong>, <br />
